@@ -3,3 +3,11 @@ body {
 	color: #fff;
 	font-family: verdana;
 }
+
+p > a {
+	color: #fff;
+}
+
+div {
+	margin: 10px 20px;
+}
