@@ -1,6 +1,10 @@
+body p {
+	color: green;
+}
+
 body {
 	background-color: #000;
-	color: #fff;
+	color: #fff !important;
 	font-family: verdana;
 }
 
@@ -10,4 +14,12 @@ p > a {
 
 div {
 	margin: 10px 20px;
+}
+
+body {
+	color: red;
+}
+
+p {
+	color: blue;
 }
